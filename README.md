@@ -1,8 +1,6 @@
 # Notepad Application
 
-This is a simple text editor application developed in Java. I know it is not perfect, but it has a didactic purpose.
-It was initially created for an exam, but I've added a couple additional features. 
-The application is expected to be further enhanced in the future.
+A Java Notepad example I developed as homework.
 
 ## Features
 
